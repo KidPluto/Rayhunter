@@ -8,4 +8,11 @@ Notes about setting up and using Rayhunter
 ## EFF Repo
 - https://github.com/EFForg/rayhunter
 
+### To add
+What I ordered, how much it cost, what it same with
+
+Mint Linux
+Steps to the software (same with sim card)
+How to start the server (need to be root)
+Mattermost 
 
