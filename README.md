@@ -8,6 +8,10 @@ Notes about setting up and using Rayhunter
 ## EFF Repo
 - https://github.com/EFForg/rayhunter
 
+## What I did
+- Bought xxx from eBay.  Cost $15, that inlcuded shipping and it had a charging cord and sim card installed.
+- I was working with [Mint Linux](https://www.linuxmint.com/edition.php?id=319), which I had installed on an old laptop.  I didn't need to try and set up dual booting, so the install was fairly easy. 
+
 ### To add
 What I ordered, how much it cost, what it same with
 
