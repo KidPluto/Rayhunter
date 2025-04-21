@@ -13,9 +13,9 @@ Notes about setting up and using Rayhunter
 - I was working with [Mint Linux](https://www.linuxmint.com/edition.php?id=319), which I had installed on an old laptop.  I didn't need to try and set up dual booting, so the install was fairly easy.
 - Download the file to install
 - Move to download folder
-- Expanded with > tar -xvf release.tar
-- Changed to superuser > sudo -i
-- Install it > ./install.sh
+- Expanded with `$> tar -xvf release.tar`
+- Changed to superuser `$> sudo -i`
+- Install it `$> ./install.sh`
 
 ### Notes still to add above
 - What I ordered, how much it cost, what it same with
