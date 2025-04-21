@@ -13,7 +13,9 @@ Notes about setting up and using Rayhunter
 - I was working with [Mint Linux](https://www.linuxmint.com/edition.php?id=319), which I had installed on an old laptop.  I didn't need to try and set up dual booting, so the install was fairly easy. 
 
 ### To add
-What I ordered, how much it cost, what it same with
+- What I ordered, how much it cost, what it same with
+- I see one to three file captures per day
+- There is no tracking of where I am, so if I moving around and don't look a the device I might not know where exact I got the hit?
 
 Steps to the software (same with sim card)
 How to start the server (need to be root)
