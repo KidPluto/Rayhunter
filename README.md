@@ -15,7 +15,8 @@ Notes about setting up and using Rayhunter
 - Move to download folder
 - Expanded with `$> tar -xvf release.tar`
 - Changed to superuser `$> sudo -i`
-- Install it `$> ./install.sh`
+- Plugin your Orbic
+- Install it `$> ./install.sh` this is also how you start the server each time you want to look at the logs
 
 ### Notes still to add above
 - What I ordered, how much it cost, what it same with
