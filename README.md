@@ -17,11 +17,11 @@ Notes about setting up and using Rayhunter
 - Changed to superuser `$> sudo -i`
 - Plugin your Orbic
 - Install it `$> ./install.sh` this is also how you start the server each time you want to look at the logs
+- View the stats page at `localhost:8080/index.html`
 
 ### Notes still to add above
 - I see one to three file captures per day
 - There is no tracking of where I am, so if I moving around and don't look a the device I might not know where exact I got the hit?
 - Steps to the software (same with sim card)
-- How to start the server (need to be root)
 - Mattermost 
 
