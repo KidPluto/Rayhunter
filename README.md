@@ -12,22 +12,24 @@ Notes about setting up and using Rayhunter
 - Bought Orbic RC400L from [eBay](https://www.ebay.com/sch/i.html?_nkw=Orbic+RC400L).  Cost $15, that inlcuded shipping and it had a charging cord and sim card installed.  It was an eBay refurshed item.  The sim card isn't "live".  When the device starts up is says no service found.
 - I was working with [Mint Linux](https://www.linuxmint.com/edition.php?id=319), which I had installed on an old laptop.  I didn't need to try and set up dual booting, so the install was fairly easy.
 - Download the file to install
+- Plugin your Orbic
 - From a Terminal window
-- Move to download folder
+- Move to download folder `cd Downloads`
 - Expanded with `$> tar -xvf release.tar`
 - Changed to superuser `$> sudo -i`
-- Plugin your Orbic
+- You might have to move back to /home/<your-user>/Downloads
 - Install it `$> ./install.sh`
 
 ## How to view the captures
-- From a Terminal window
-- Move to download folder
-- Changed to superuser `$> sudo -i`
 - Plugin your Orbic
+- From a Terminal window
+- Move to download folder `cd Downloads`
+- Changed to superuser `$> sudo -i`
+- You might have to move back to /home/<your-user>/Downloads
 - Start the server  `$> ./install.sh`
 - Using a browser view the stats page at `localhost:8080/index.html`
 
-### Notes still to add above
+## Misc
 - I see one to three file captures per day
 - There is no tracking of where I am, so if I moving around and don't look a the device I might not know where exact I got the hit?
 - Steps to the software (same with sim card)
