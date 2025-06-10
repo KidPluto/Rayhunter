@@ -19,6 +19,10 @@ Notes about setting up and using Rayhunter
 - Install it `$> ./install.sh` this is also how you start the server each time you want to look at the logs
 - View the stats page at `localhost:8080/index.html`
 
+## How to view the captures
+- One
+
+
 ### Notes still to add above
 - I see one to three file captures per day
 - There is no tracking of where I am, so if I moving around and don't look a the device I might not know where exact I got the hit?
