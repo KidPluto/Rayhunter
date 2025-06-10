@@ -13,17 +13,19 @@ Notes about setting up and using Rayhunter
 - I was working with [Mint Linux](https://www.linuxmint.com/edition.php?id=319), which I had installed on an old laptop.  I didn't need to try and set up dual booting, so the install was fairly easy.
 - Download the file to install
 - From a Terminal window
--- Move to download folder
--- Expanded with `$> tar -xvf release.tar`
--- Changed to superuser `$> sudo -i`
--- Plugin your Orbic
--- Install it `$> ./install.sh` this is also how you start the server each time you want to look at the logs
--- View the stats page at `localhost:8080/index.html`
+- Move to download folder
+- Expanded with `$> tar -xvf release.tar`
+- Changed to superuser `$> sudo -i`
+- Plugin your Orbic
+- Install it `$> ./install.sh`
 
 ## How to view the captures
 - From a Terminal window
--- Move to download folder
-
+- Move to download folder
+- Changed to superuser `$> sudo -i`
+- Plugin your Orbic
+- Start the server  `$> ./install.sh`
+- Using a browser view the stats page at `localhost:8080/index.html`
 
 ### Notes still to add above
 - I see one to three file captures per day
