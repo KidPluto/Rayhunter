@@ -12,15 +12,17 @@ Notes about setting up and using Rayhunter
 - Bought Orbic RC400L from [eBay](https://www.ebay.com/sch/i.html?_nkw=Orbic+RC400L).  Cost $15, that inlcuded shipping and it had a charging cord and sim card installed.  It was an eBay refurshed item.  The sim card isn't "live".  When the device starts up is says no service found.
 - I was working with [Mint Linux](https://www.linuxmint.com/edition.php?id=319), which I had installed on an old laptop.  I didn't need to try and set up dual booting, so the install was fairly easy.
 - Download the file to install
-- Move to download folder
-- Expanded with `$> tar -xvf release.tar`
-- Changed to superuser `$> sudo -i`
-- Plugin your Orbic
-- Install it `$> ./install.sh` this is also how you start the server each time you want to look at the logs
-- View the stats page at `localhost:8080/index.html`
+- From a Terminal window
+-- Move to download folder
+-- Expanded with `$> tar -xvf release.tar`
+-- Changed to superuser `$> sudo -i`
+-- Plugin your Orbic
+-- Install it `$> ./install.sh` this is also how you start the server each time you want to look at the logs
+-- View the stats page at `localhost:8080/index.html`
 
 ## How to view the captures
-- One
+- From a Terminal window
+-- Move to download folder
 
 
 ### Notes still to add above
