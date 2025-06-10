@@ -17,7 +17,7 @@ Notes about setting up and using Rayhunter
 - Move to download folder `$> cd Downloads`
 - Expanded with `$> tar -xvf release.tar`
 - Changed to superuser `$> sudo -i`
-- You might have to move back to /home/<your-user>/Downloads
+- You might have to move back to /home/your-user/Downloads
 - Install it `$> ./install.sh`
 
 ## How to view the captures
@@ -25,7 +25,7 @@ Notes about setting up and using Rayhunter
 - From a Terminal window
 - Move to download folder `$> cd Downloads`
 - Changed to superuser `$> sudo -i`
-- You might have to move back to /home/<your-user>/Downloads
+- You might have to move back to /home/your-user/Downloads
 - Start the server  `$> ./install.sh`
 - Using a browser view the stats page at `localhost:8080/index.html`
 
