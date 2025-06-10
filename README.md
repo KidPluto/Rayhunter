@@ -14,7 +14,7 @@ Notes about setting up and using Rayhunter
 - Download the file to install
 - Plugin your Orbic
 - From a Terminal window
-- Move to download folder `cd Downloads`
+- Move to download folder `$> cd Downloads`
 - Expanded with `$> tar -xvf release.tar`
 - Changed to superuser `$> sudo -i`
 - You might have to move back to /home/<your-user>/Downloads
@@ -23,7 +23,7 @@ Notes about setting up and using Rayhunter
 ## How to view the captures
 - Plugin your Orbic
 - From a Terminal window
-- Move to download folder `cd Downloads`
+- Move to download folder `$> cd Downloads`
 - Changed to superuser `$> sudo -i`
 - You might have to move back to /home/<your-user>/Downloads
 - Start the server  `$> ./install.sh`
